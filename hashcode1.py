@@ -1,5 +1,5 @@
 print("////// Hash Code 2020 //////")
-
+print("Creati da Mario De Luca e Daniele Rainone!\n")
 
 
 def ordinaLibrerie(arr):
